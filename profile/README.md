@@ -1,4 +1,4 @@
-## Hi there 👋
+## MnM Computational Nuclear Materials Subgroup
 
 <!--
 
