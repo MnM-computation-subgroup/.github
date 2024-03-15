@@ -1,1 +1,1 @@
-# .github
+MnM Computational Materials Subgroup
